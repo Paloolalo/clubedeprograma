@@ -28,7 +28,7 @@ while 1:
     elif operacao == 'subtracao': subtracao (num1, num2)
     elif operacao == 'divisao': divisao (num1, num2)
     elif operacao == 'multiplicacao': multiplicacao (num1, num2)
-    else: print: ('para de ser burro')
+    else: print('para de ser burro')
     cu = input('você deseja continuar?:')
     if cu == 'não' : 
         break
